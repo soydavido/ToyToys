@@ -3443,11 +3443,17 @@ canvas#pie {
 .product-items {
     margin-bottom: 2em;
 }
+.login-items {
+    margin-bottom: 4em;
+}
 .col-lg-6.mb-60 h4 {
     font-size: 1.5em;
     margin-bottom: 0.2em;
 }
 .product-grid {
+    padding: 0px 24px 0px 0px;
+}
+.login-grid {
     padding: 0px 12px 0px 0px;
 }
 .profile_details_left ul {
